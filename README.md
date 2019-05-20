@@ -31,7 +31,7 @@ class App extends React.Component {
   }
 }
 
-//Next.js version
+//Next.js version(with next-css)
 import DatePicker from 'react-simple-datepicker';
 import picker from '../components/index.css';  //react-simple-datepicker/dist/index.css
 
