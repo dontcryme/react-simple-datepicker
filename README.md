@@ -11,7 +11,7 @@
 ## Usage
 
 Simple example on how to use Datepicker. Just import DatePicker module and styles for it.
-
+//Original Version
 ```js
 import React from 'react';
 import DatePicker from 'react-simple-datepicker';
