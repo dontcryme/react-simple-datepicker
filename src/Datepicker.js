@@ -125,7 +125,8 @@ var DatePicker = (function (_Component) {
 
       if (clickOnDate) {
         this.setState({
-          isCalendarOpen: false
+          isCalendarOpen: false,
+          date: date
         });
         return clickOnDate(date, name);
       }
